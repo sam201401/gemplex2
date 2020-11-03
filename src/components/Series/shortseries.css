@@ -1,0 +1,19 @@
+
+
+.mqgVD {
+    width: 200px;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.image3{
+    object-fit:cover;
+    width:     calc(100%);
+   
+    
+   
+  
+  }

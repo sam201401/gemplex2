@@ -1,0 +1,57 @@
+.iKfOHo {
+  width: 400px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  margin-right: 10px;
+  margin-left: 0px;
+}
+.bRPTZE {
+  width: 400px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.original{
+
+    font-size: 22px;
+    font-family: Gemplex-bold;
+    color: #04396B !important;
+    padding:15px;
+    margin-left: 20px;
+}
+
+.tittle{
+   
+    font-family: Gemplex-bold;
+    color: #26BDEB;
+   padding:10px;
+    margin-left: 25px;
+    font-size: 1.1rem;
+
+}
+.image2{
+    object-fit:cover;
+    width:     calc(100%);
+   
+    
+   
+  
+  }
+.imagecaption{
+    color: #0070CC;
+    
+    margin-top: 5px;
+    font-size: 14px;
+}
+  
+  .timeduration{
+    color: grey;
+    margin: 0 1px;
+  }
+ 
+
+

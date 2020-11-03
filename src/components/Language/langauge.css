@@ -1,0 +1,22 @@
+.img-class{
+    height: 100px;
+    width: 100px;
+    
+    border-radius: 50%;
+    object-fit:cover;
+    
+}
+.tittle{
+    font-size: 22px;
+    font-family: Gemplex-bold;
+    color: #04396B !important
+}
+
+.imglang{
+    display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: center;
+   
+  
+}

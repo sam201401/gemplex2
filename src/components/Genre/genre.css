@@ -1,0 +1,19 @@
+
+ 
+
+.dFREUE {
+    width: 150px;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    margin-right: 10px;
+    margin-left: 0px;
+}
+.img-genreclass{
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
+    object-fit:cover;
+    width:     calc(100%);
+    
+}
